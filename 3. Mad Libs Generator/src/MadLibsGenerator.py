@@ -1,4 +1,3 @@
-
 def story():
     template = "Didn't you hear? Supposedly %(noun)s %(verb)s is the new %(color)s."
     dictionary = {}
